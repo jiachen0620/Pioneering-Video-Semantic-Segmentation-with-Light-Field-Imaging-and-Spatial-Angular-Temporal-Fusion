@@ -16,9 +16,7 @@ Installation
 
 python3.7 CUDA 10.1 pytorch 1.7.1 pip install opencv-python 4.5.1.48
 
-the code will be relased
-
-This manuscript is under review.
+This manuscript is under review，the dataset and code will be publicly released.
 
 Contact
 
